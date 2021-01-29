@@ -1,7 +1,7 @@
 # XOreGen [![](https://poggit.pmmp.io/shield.state/XOreGen)](https://poggit.pmmp.io/ci/LuciferVerma/XOreGen/XOreGen)
 Ore regenerator. Use it to make mines.
 ## Discription: <br>
-This plugin regenerate ore in given time. If you see the config.yml there you will gind everything that you need. <br>
+This plugin regenerate ore in given time. If you see the config.yml there you will find everything that you need. <br>
 ## How To Use: <br>
 1. install the plugin.<br>
 2. Go to plugins data folder open XOreGen folder there is a config.yml there open it.<br>
